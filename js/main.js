@@ -1,0 +1,1 @@
+$(function(){var hostUrl=window.location.hash.slice(1);if(hostUrl==""){return false}var self_h=$(document.body).height();hostUrl+="#height="+self_h;window.top.location=hostUrl});
